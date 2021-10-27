@@ -4,4 +4,4 @@ phases:
     commands:
       - echo "Oauth"
       - echo "test webhook"
-      - pwd
+      - ls
