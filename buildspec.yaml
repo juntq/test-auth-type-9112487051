@@ -6,3 +6,4 @@ phases:
       - echo "test webhook"
       - pwd
       - echo "test public URL"
+      - echo "this is test"
