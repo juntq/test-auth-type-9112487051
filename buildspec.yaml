@@ -5,3 +5,4 @@ phases:
       - echo "OAuth"
       - echo "test webhook"
       - pwd
+      - echo "test public URL"
